@@ -1,2 +1,2 @@
 # crm-ssm
-ssm
+整合 ssm
